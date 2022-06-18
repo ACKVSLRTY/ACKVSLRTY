@@ -2,7 +2,7 @@
  My Discord : https://discord.gg/nQuSHzJ5Wa
                                                           
 ```
-<h1 align="center">Hi, I'm ACKVSLRTYh1>
+<h1 align="center">Hi, I'm ACKVSLRTY>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|" />
