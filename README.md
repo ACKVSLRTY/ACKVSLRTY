@@ -1,16 +1,19 @@
-### Hi there 👋
+```
+ My Discord : https://discord.gg/nQuSHzJ5Wa
+                                                          
+```
+<h1 align="center">Hi, I'm ACKVSLRTY/h1>
 
-<!--
-**ACKVSLRTY/ACKVSLRTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```diff
+🐱‍👤 Developer c++ , lua , js , html , sql , php , java
+
+```
+
+
+<br />
